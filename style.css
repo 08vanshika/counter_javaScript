@@ -1,0 +1,35 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: 'Rubik', sans-serif;
+    color: rgb(62, 3, 3);
+}
+
+.container{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+h1{
+    font-size: 50px;
+}
+
+span{
+    font-size: 150px;
+    padding: 10px;
+}
+
+.btn{
+    font-size: 20px;
+    background:navajowhite;
+    outline: 1px;
+    border: 2px solid rgb(49, 10, 10);
+    padding: 10px;
+    border-radius: 10px;
+    margin: 5px;
+    }
